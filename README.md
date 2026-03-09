@@ -1,17 +1,29 @@
-# finance_tracker
+# 💰 Finance Tracker
 
-A new Flutter project.
+> Personal finance app built with Flutter & Dart — by **Ramy Al Turkey**
 
-## Getting Started
+## ✨ Features
+- 📊 Dashboard with animated balance card & 6-month bar chart
+- 💸 Add income & expense transactions with categories
+- 📈 Statistics — savings rate & pie chart by category  
+- 🗂️ Transaction history grouped by date with swipe to delete
+- 🌙 Dark / Light mode toggle
+- 💾 Local storage with Hive — works offline
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+- Flutter 3.x + Dart
+- Riverpod 2.x — State management
+- Hive — Local storage
+- fl_chart — Charts
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Run Locally
+```bash
+git clone https://github.com/revolk/finance-tracker.git
+cd finance-tracker
+flutter pub get
+flutter run
+```
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📬 Contact
+**Ramy Al Turkey** — finalrevolk@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/ramy-mohamed2023/) · [GitHub](https://github.com/revolk)
